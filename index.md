@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+---
+title: "WR Audio Services"
+---
 
-You can use the [editor on GitHub](https://github.com/willr-webdev/wras/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to WR Audio Services
+
+Professional audio editor
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Prepare dialogue tracks for post production
 
-```markdown
-Syntax highlighted code block
+Clean up tracks prior to mixing
 
 # Header 1
 ## Header 2
