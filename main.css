@@ -9,8 +9,14 @@ body {
   max-width: 50vw;
 }
 
+ul, li {
+  margin: 0;
+  padding: 0;
+}
+
 ul {
   list-style-type: none;
+  display: inline-flex;
 }
 
 li {
