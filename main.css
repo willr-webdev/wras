@@ -14,7 +14,8 @@ ul {
 }
 
 li {
- flex: 1 1 200px; 
+ flex: 1 1 300px;
+ padding: 10px;
 }
 
 .li-1 {
