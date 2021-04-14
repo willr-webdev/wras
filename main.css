@@ -4,6 +4,7 @@ body {
 
 .navbar {
   background-color: lightcyan;
+  display: flex;
 }
 
 .li-1 {
