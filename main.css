@@ -4,6 +4,7 @@ body {
 
 .navbar {
   background-color: lightcyan;
+  border-color: navy;
   display: flex;
   max-width: 50vw;
 }
