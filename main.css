@@ -9,6 +9,10 @@ body {
   max-width: 50vw;
 }
 
+ul {
+  list-style-type: none;
+}
+
 li {
  flex: 1 1 200px; 
 }
