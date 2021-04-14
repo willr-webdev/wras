@@ -1,7 +1,31 @@
-div {
+body {
   background-color: yellow;
 }
 
-p {
-  color: blue;
+nav {
+  background-color: blue;
+}
+
+.li-1 {
+  background-color: green;
+}
+
+.li-2 {
+  background-color: orange;
+}
+
+.li-3 {
+  background-color: purple;
+}
+
+.li-4 {
+  background-color: gray;
+}
+
+.li-5 {
+  background-color: brown;
+}
+
+.li-6 {
+  background-color: gold;
 }
