@@ -6,7 +6,7 @@ body {
   background-color: lightcyan;
   border-color: navy;
   display: flex;
-  width: 100vw;
+  /** width: 100vw; **/
   margin: auto;
   justify-content: space-between;
 }
