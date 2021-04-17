@@ -23,7 +23,7 @@ ul {
 }
 
 li {
- flex: 1 1 300px;
+ flex: 1 1 30px;
  padding: 10px;
  justify-content: space-between;
 }
