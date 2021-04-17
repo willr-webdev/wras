@@ -9,7 +9,7 @@ body {
   display: flex;
   /** width: 100vw; **/
   margin: auto;
-  justify-content: space-between;
+  /** justify-content: space-between; **/
 }
 
 ul, li {
