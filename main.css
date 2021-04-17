@@ -12,6 +12,11 @@ body {
   /** justify-content: space-between; **/
 }
 
+.navlist {
+  display: flex;
+  justify-content: space-between;
+}
+
 ul, li {
   margin: 0;
 }
