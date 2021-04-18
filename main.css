@@ -67,15 +67,18 @@ main {
 
 .hero1 {
   background-color: white;
-  flex: 2 4 100px; 
+  flex: 2 4 100px;
+  min-height: 25vh;
 }
 
 .hero2 {
   background-color: red;
   flex: 4 2 200px;
+  min-height: 25vh;
 }
 
 .hero3 {
   background-color: blue;
   flex: 2 4 100px;
+  min-height: 25vh;
 }
