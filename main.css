@@ -71,6 +71,7 @@ main {
   background-color: white;
   flex: 2 4 100px;
   min-height: 50vh;
+  text-align: center;
 }
 
 .hero2 {
@@ -78,10 +79,12 @@ main {
   flex: 4 2 200px;
   min-height: 50vh;
   margin: 0px 10px;
+  text-align: center;
 }
 
 .hero3 {
   background-color: blue;
   flex: 2 4 100px;
   min-height: 50vh;
+  text-align: center;
 }
