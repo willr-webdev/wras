@@ -76,6 +76,7 @@ main {
   background-color: red;
   flex: 4 2 200px;
   min-height: 50vh;
+  margin: 0px 10px;
 }
 
 .hero3 {
