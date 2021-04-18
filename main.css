@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-  background-color: lightcyan;
+  /** background-color: lightcyan; **/
   border-color: navy;
   display: flex;
   /** width: 100vw; **/
@@ -63,7 +63,7 @@ li {
 
 main {
   display: flex;
-  background-color: teal;
+  /** background-color: teal; **/
   padding: 10px;
 }
 
