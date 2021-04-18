@@ -63,6 +63,7 @@ li {
 main {
   display: flex;
   background-color: teal;
+  padding: 10px;
 }
 
 .hero1 {
