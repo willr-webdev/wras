@@ -61,17 +61,21 @@ li {
 }
 
 main {
+  display: flex;
   background-color: teal;
 }
 
 .hero1 {
   background-color: white;
+  flex: 2 4 100px; 
 }
 
 .hero2 {
   background-color: red;
+  flex: 4 2 200px;
 }
 
 .hero3 {
   background-color: blue;
+  flex: 2 4 100px;
 }
