@@ -74,6 +74,8 @@ main {
   min-height: 50vh;
   justify-content: center;
   align-items: center;
+  font-weight: bold;
+  font-size: x-large;
 }
 
 .hero2 {
@@ -84,6 +86,8 @@ main {
   margin: 0px 10px;
   justify-content: center;
   align-items: center;
+  font-weight: bold;
+  font-size: x-large;
 }
 
 .hero3 {
@@ -93,4 +97,6 @@ main {
   min-height: 50vh;
   justify-content: center;
   align-items: center;
+  font-weight: bold;
+  font-size: x-large;
 }
