@@ -68,6 +68,7 @@ main {
 }
 
 .hero1 {
+  display: flex;
   background-color: white;
   flex: 2 4 100px;
   min-height: 50vh;
@@ -75,6 +76,7 @@ main {
 }
 
 .hero2 {
+  display: flex;
   background-color: red;
   flex: 4 2 200px;
   min-height: 50vh;
@@ -83,6 +85,7 @@ main {
 }
 
 .hero3 {
+  dislpay: flex;
   background-color: blue;
   flex: 2 4 100px;
   min-height: 50vh;
