@@ -87,7 +87,7 @@ main {
 }
 
 .hero3 {
-  dislpay: flex;
+  display: flex;
   background-color: blue;
   flex: 2 4 100px;
   min-height: 50vh;
