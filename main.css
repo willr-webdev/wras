@@ -45,11 +45,6 @@ li {
   background-color: orange;
 }
 
-.li-2:hover
-{
-        box-shadow: inset 0 0 0 25px #53a7ea;
-}
-
 .li-3 {
   background-color: purple;
 }
@@ -93,6 +88,10 @@ main {
   align-items: center;
   font-weight: bold;
   font-size: x-large;
+}
+
+.hero2:hover {
+  box-shadow: inset 0 0 0 25px #53a7ea;
 }
 
 .hero3 {
