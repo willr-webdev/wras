@@ -91,7 +91,7 @@ main {
 }
 
 .hero2:hover {
-  box-shadow: inset 1s 0 0 25px #53a7ea;
+  box-shadow: inset 10px 0 0 25px #53a7ea;
 }
 
 .hero3 {
