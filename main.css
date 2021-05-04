@@ -7,10 +7,6 @@ header {
   border: 5px solid black;
 }
 
-main {
-  border: 10px solid blue;
-}
-
 footer {
   border: 5px solid green;
 }
@@ -75,6 +71,7 @@ li {
 
 main {
   display: flex;
+  border: 10px solid blue;
   /** background-color: teal; **/
   padding: 10px;
 }
