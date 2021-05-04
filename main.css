@@ -8,7 +8,7 @@ header {
 }
 
 footer {
-  border: 5px solid green;
+  border: 5px solid black;
 }
 
 .navbar {
@@ -71,7 +71,7 @@ li {
 
 main {
   display: flex;
-  border: 5px solid blue;
+  border: 5px solid black;
   /** background-color: teal; **/
   padding: 10px;
 }
