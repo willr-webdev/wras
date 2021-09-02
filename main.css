@@ -1,5 +1,13 @@
+:root {
+
+  --wras-background-color: #93dce9;
+  
+  --wras-text-color: #130c0a;
+  
+  }
+
 body {
-  background-color: lightgrey;
+  background-color: var(--wras-background-color);
   padding: 5px;
 }
 
