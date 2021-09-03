@@ -129,3 +129,7 @@ main {
 .btn-div {
   display: grid;
 }
+
+#css-toggle-button {
+  grid-auto-flow: initial;
+}
